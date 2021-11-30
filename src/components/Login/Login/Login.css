@@ -1,0 +1,25 @@
+.login-section{
+    border: 2px solid gray;
+    margin-left: 200px;
+    margin-right: 200px;
+    margin-bottom: 50px;
+    padding: 100px;
+    background-color:whitesmoke;
+    
+}
+.login-button{
+    border: 1px solid gray;
+    border-radius: 30px;
+    padding: 5px 100px;
+}
+@media only screen and (max-width : 688px) {
+    .login-section{
+        border: 2px solid gray;
+        margin-top: 50px;
+        margin-left: 0px;
+        margin-right: 0px;
+        padding: 0px;
+        background-color:whitesmoke;
+        
+    }
+}

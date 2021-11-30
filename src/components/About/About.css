@@ -1,0 +1,13 @@
+.pic-size img{
+    width: 500px;
+    height: 700px;
+    
+}
+.custom-color{
+    color: #0791be;
+}
+@media only screen and (max-width:688px){
+    .pic-size img {
+        width: 380px;
+    }
+}
